@@ -11,7 +11,7 @@ const About = () => {
       <div className={Styles.aboutContent}>
         Hello Jadwelny Team,
         <br /> 
-       <p className="mt-8"> I'm a junior frontend developer passionate about creating visually
+       <p className="mt-8"> I&apos;m a junior frontend developer passionate about creating visually
         appealing and user-friendly websites. I bring a solid understanding of
         HTML, CSS, and JavaScript, eager to grow and contribute to innovative
         projects.</p>
