@@ -15,7 +15,7 @@ const About = () => {
         appealing and user-friendly websites. I bring a solid understanding of
         HTML, CSS, and JavaScript, eager to grow and contribute to innovative
         projects.</p>
-            <div className=" flex items-center justify-around mt-10 m-auto w-1/4 max-md:w-3/4 bg-slate-400">
+            <div className=" flex items-center justify-around mt-10 m-auto w-1/4 max-md:w-3/4 ">
               {socialData.map((ele:any, index:any) => (
                 <SocialIcons
                   key={index}
